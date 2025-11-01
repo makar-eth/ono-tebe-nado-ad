@@ -22,7 +22,7 @@
   list-style: circle;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
   list-style: none;
 }
 
@@ -30,7 +30,7 @@
   text-decoration: none;
 }
 
-.header__link{
+.header__link {
   text-decoration: underline;
 }
 
@@ -91,7 +91,7 @@
   margin-top: 106px;
 }
 
-.cover__description-text{
+.cover__description-text {
   font-size: 22px;
   line-height: 28px;
   word-spacing: 20px;
@@ -112,7 +112,7 @@
   margin: 180px 24px 120px;
 }
 
-.lots__heading{
+.lots__heading {
   font-size: 40px;
   text-transform: uppercase;
   line-height: 100%;
@@ -151,7 +151,7 @@
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
-  padding: 48px 40px; 
+  padding: 48px 40px;
   color: #fff;
 }
 
@@ -236,7 +236,7 @@
 }
 
 .footer__menu-item_active {
-  text-decoration: none
+  text-decoration: none;
 }
 
 .footer__social-list {
